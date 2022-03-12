@@ -22,3 +22,11 @@ main img{
     padding-right: 2em;
 }
 
+.doc iframe{
+    width: 100%;
+    height: auto;
+    max-width: 900px;
+    padding-top: 2em ;
+    min-height: 750px;
+    border-color: transparent;
+}
